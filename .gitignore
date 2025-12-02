@@ -1,0 +1,37 @@
+# Godot-specific files
+.import/
+export_presets.cfg
+godot.env
+
+# Imported assets metadata
+*.import
+
+# Godot editor cache
+.cache/
+.editor/
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+
+# Logs
+*.log
+
+# Python virtual environments (just in case)
+venv/
+.env/
+
+# Godot 4: Mono & C#
+.mono/
+*.csproj
+*.sln
+*.csproj.user
+
+# Backup files created by many editors
+*~
