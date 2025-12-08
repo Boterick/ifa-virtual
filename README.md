@@ -1,3 +1,15 @@
+![All Scripts Combined](https://img.shields.io/badge/All%20Scripts%20Combined-Last%20Generated%202025-12-08-blue)
+
+### Table of Contents
+- 1. [Olodumare/client.gd](all_scripts_combined.txt#script-1-olodumareclientgd)
+- 2. [Olodumare/server.gd](all_scripts_combined.txt#script-2-olodumareservergd)
+- 3. [Olodumare/websocket/WebSocketClient.gd](all_scripts_combined.txt#script-3-olodumarewebsocketwebsocketclientgd)
+- 4. [Olodumare/websocket/WebSocketServer.gd](all_scripts_combined.txt#script-4-olodumarewebsocketwebsocketservergd)
+- 5. [Exu/client.gd](all_scripts_combined.txt#script-5-exuclientgd)
+- 6. [Exu/server.gd](all_scripts_combined.txt#script-6-exuservergd)
+- 7. [Exu/websocket/WebSocketClient.gd](all_scripts_combined.txt#script-7-exuwebsocketwebsocketclientgd)
+- 8. [Exu/websocket/WebSocketServer.gd](all_scripts_combined.txt#script-8-exuwebsocketwebsocketservergd)
+
 # Ifá Virtual — Olodumare & Exu WebSocket Framework
 
 [![Godot Engine](https://img.shields.io/badge/Godot-4.x-blue?logo=godot-engine&logoColor=white)]()
