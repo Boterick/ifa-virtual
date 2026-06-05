@@ -1,0 +1,14 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1764688000
+chat.tscn::PackedScene::6501801754467712981::1764687997::0::1::::<><><>0<>0<><>::
+client.gd::GDScript::6154398881133966303::1764687997::0::1::::<>Control<><>0<>0<><>::
+client.tscn::PackedScene::1069115919107768497::1764687997::0::1::::<><><>0<>0<><>::uid://cyvrywci15kev::::res://chat.tscn<>res://websocket/WebSocketClient.gd<>res://client.gd
+combo.tscn::PackedScene::8853687069215460744::1764687998::0::1::::<><><>0<>0<><>::uid://ph5ghsflqegf::::res://client.tscn
+Exu.tscn::PackedScene::7106617205022244091::1764687998::0::1::::<><><>0<>0<><>::uid://ph5ghsflqegf::::res://client.tscn
+icon.webp::CompressedTexture2D::3626017087650301524::1764687998::1764687998::1::::<><><>0<>0<>589028de9034123a3c6890116d339791<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
+README.md::TextFile::-1::1764687997::0::1::::<><><>0<>0<><>::
+server.gd::GDScript::5812664048003906986::1764687998::0::1::::<>Control<><>0<>0<><>::
+server.tscn::PackedScene::1166790402972405900::1764687998::0::1::::<><><>0<>0<><>::uid://cyvrywci15kev::::res://chat.tscn<>res://server.gd<>res://websocket/WebSocketServer.gd
+::res://websocket/::1764687998
+WebSocketClient.gd::GDScript::3557466848483418311::1764687998::0::1::::WebSocketClient<>Node<><>0<>0<><>::
+WebSocketServer.gd::GDScript::6110316156112008963::1764687998::0::1::::WebSocketServer<>Node<><>0<>0<><>::
